@@ -66,6 +66,14 @@
     padding: 10rem 2rem; 
     background-color:#45567d;
   }
+  .projects-header{
+    position: absolute;
+    top:850px;
+    color:white;
+    font-size: 40px;
+    font-weight:400 ;
+  }
+
   .grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
