@@ -1,6 +1,8 @@
 # My-Portfolio
 
-This is my Front-end work to show my skills in practical way so someone can know how my Practical knowledge in terms of front-end development is .
+This is my Front-end work to show my skills in practical way so someone can know how my Practical knowledge in terms of front-end development is 
+
+Please check My Portfolio to check or view  Practical skills  ------ https://suscool786.github.io/My-Portfolio/
 
 1) It is my Welcome section 
 
